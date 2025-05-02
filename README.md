@@ -6,26 +6,33 @@
 
 ## 🚀 Features
 
-✅ **Inventory Management**  
-Track books, authors, genres, and multiple copies with full lifecycle support.
+- ✅ **Built with C# and .NET**  
+  Developed using the latest .NET technologies to ensure performance, maintainability, and scalability.
 
-✅ **Member Management**  
-Register members, manage profiles, and maintain lending histories.
+- 📚 **Manages books, members, loans, and fines**  
+  Handles the entire library lifecycle including book inventory, user accounts, loan processing, return tracking, and fine calculation.
 
-✅ **Smart Lending System**  
-Handle book loans, returns, due dates, and overdue reminders seamlessly.
+- 🧩 **Uses Repository Pattern with Unit of Work**  
+  Implements a clean data access layer with separation of concerns, making the codebase easier to test and maintain.
 
-✅ **Reviews & Ratings**  
-Allow members to rate and review books to enhance discovery.
+- 🔄 **Integrated AutoMapper for mapping**  
+  Automates object-to-object mapping between domain models, DTOs, and view models to reduce boilerplate code.
 
-✅ **Wishlists & Recommendations**  
-Enable users to create wishlists and get personalized suggestions.
+- ✅ **FluentValidation for clean input validation**  
+  Ensures robust and readable model validation with fluent rules to keep logic out of controllers.
 
-✅ **Fines & Transactions**  
-Automated fine calculation for late returns and complete transaction history.
+- 📊 **Serilog for structured logging**  
+  Provides detailed and structured logging across the application for better monitoring, debugging, and diagnostics.
 
-✅ **Advanced Reporting**  
-Generate insights for collection development and library growth strategies.
+- ⚡ **Caching for performance optimization**  
+  Implements in-memory or distributed caching strategies to reduce response time and database load.
+
+- 🔐 **Token-based Authentication & Authorization**  
+  Secures APIs using JWT tokens and role-based access control to protect user data and enforce permissions.
+
+- 📈 **Scalable and clean architecture for real-world libraries**  
+  Designed with extensibility and modularity in mind, making it adaptable to small community libraries or large academic systems.
+
 
 ---
 
