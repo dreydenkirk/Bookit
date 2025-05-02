@@ -76,6 +76,10 @@ This project is open-source and available under the MIT License.
 ## 🙌 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
+## API Documentation📜
+
+## Authors
+![Authors](https://github.com/user-attachments/assets/753d466e-6766-4411-bffc-591308e9f9f2)
 
 
 ## Crafted with ❤️ by Tareq Bilal
