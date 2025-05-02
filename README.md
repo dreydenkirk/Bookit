@@ -78,8 +78,29 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## API Documentation📜
 
-## Authors
+### Authors
+
 ![Authors](https://github.com/user-attachments/assets/753d466e-6766-4411-bffc-591308e9f9f2)
+
+### Book
+
+![Books](https://github.com/user-attachments/assets/612cfa7b-d18b-4fe0-9fd2-9cb09892d029)
+
+### BookCopy
+
+![BookCopy](https://github.com/user-attachments/assets/8daa91b8-c884-4ed1-bc06-8c99d50b5261)
+
+### Publisher
+
+![Publisher](https://github.com/user-attachments/assets/3c552660-7cef-450f-ac15-1e067e125eb9)
+
+### Category
+
+![Category](https://github.com/user-attachments/assets/cdfa21f9-a6c7-4372-b115-db840c36acc4)
+
+### User
+
+![User](https://github.com/user-attachments/assets/45b0dbda-dc15-42ed-8d62-d90f3857aa55)
 
 
 ## Crafted with ❤️ by Tareq Bilal
